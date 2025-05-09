@@ -1,5 +1,6 @@
 import	{	StatusBar	}	from	'expo-status-bar';
 import	React	from	'react';
+import	React	from	'react';
 import	{	StyleSheet,	Text,	View	}	from	'react-native';
 import	OlaMundo	from	'./componentes/OlaMundo';
 import { Evento } from './componentes/Evento'
